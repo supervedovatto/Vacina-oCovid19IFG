@@ -2,12 +2,12 @@
 
 Resultados das estimativas do número de vacinados no IFG Campus Goiânia. 
 
-O arquivo [Estimativas Covid IFG](https://github.com/supervedovatto/VacinacaoCovid19IFG/blob/main/Estimativas-2021-11-16.xlsx?raw=true) contém um arquivo do excel com quatro planilhas:
+O arquivo [Estimativas Covid IFG](https://github.com/supervedovatto/VacinacaoCovid19IFG/blob/main/Estimativas-2021-11-16.xlsx?raw=true) contém um arquivo do excel com quatro planilhas com as estimativas de vacinados pela 1ª e 2ª Doses de alguma das vacinas da Covid-19.
 
-    - Dose 1 Comunidade Acadêmica: Planilha contendo as estimativas de vacinados com a 1ª Dose para a Comunidade Acadêmica.
-    - Dose 2 Comunidade Acadêmica: Planilha contendo as estimativas de vacinados com a 2ª Dose para a Comunidade Acadêmica.
-    - Dose 1 Profissionais Educação: Planilha contendo as estimativas de vacinados com a 1ª Dose para os docentes.
-    - Dose 2 Profissionais Educação: Planilha contendo as estimativas de vacinados com a 2ª Dose para os docentes.
+    - Dose 1 Comunidade Acadêmica: 1ª Dose para a Comunidade Acadêmica.
+    - Dose 2 Comunidade Acadêmica: 2ª Dose para a Comunidade Acadêmica.
+    - Dose 1 Profissionais Educação: 1ª Dose para os docentes.
+    - Dose 2 Profissionais Educação: 2ª Dose para os docentes.
 
 Cada planilha apresenta as seguintes colunas:
 
